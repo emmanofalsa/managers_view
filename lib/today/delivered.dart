@@ -19,7 +19,7 @@ class _HepeDeliveredState extends State<HepeDelivered> {
   bool emptyTranHistory = true;
   bool deliveredPressed = true;
   bool smOrdered = false;
-  List _hList = [];
+  // List _hList = [];
   List _list = [];
 
   String listCaption;
