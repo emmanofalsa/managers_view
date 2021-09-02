@@ -23,7 +23,6 @@ class _HepeDeliveredState extends State<HepeDelivered> {
   List _list = [];
 
   String listCaption;
-  String a;
   String totalAmount;
 
   final formatCurrencyAmt =
